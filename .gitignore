@@ -1,6 +1,6 @@
 #current workspace
 poetry.lock
-
+.vscode/
 
 
 # Byte-compiled / optimized / DLL files
